@@ -1,0 +1,7 @@
+{
+  "name": "AI Kitchen Buddy",
+  "description": "A smart recipe generator that creates personalized meals based on your available ingredients, dietary needs, and time constraints using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
